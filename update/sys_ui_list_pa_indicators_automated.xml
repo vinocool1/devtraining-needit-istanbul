@@ -3,123 +3,108 @@
     <sys_ui_list parent="" relationship="" sys_domain="global" table="pa_indicators" version="2" view="automated">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>name</element>
-            <list_id display_value="pa_indicators" element="NULL" name="pa_indicators" parent="NULL" relationship="NULL" sys_domain="global" view="7db73031c31301006568506adfba8ff7">98853812eb032100871aac6aa206fe99</list_id>
+            <element>sys_name</element>
+            <list_id display_value="sys_metadata" element="NULL" name="sys_metadata" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bc8e8f32d723210092610eca5e610302</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2014-09-11 07:55:24</sys_created_on>
-            <sys_id>dc853812eb032100871aac6aa206fe99</sys_id>
+            <sys_created_on>2014-10-08 04:52:14</sys_created_on>
+            <sys_id>f08e8f32d723210092610eca5e610303</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2014-09-11 07:55:24</sys_updated_on>
+            <sys_updated_on>2014-10-08 04:52:14</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>unit</element>
-            <list_id display_value="pa_indicators" element="NULL" name="pa_indicators" parent="NULL" relationship="NULL" sys_domain="global" view="7db73031c31301006568506adfba8ff7">98853812eb032100871aac6aa206fe99</list_id>
+            <element>sys_class_name</element>
+            <list_id display_value="sys_metadata" element="NULL" name="sys_metadata" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bc8e8f32d723210092610eca5e610302</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2014-09-11 07:55:24</sys_created_on>
-            <sys_id>10853812eb032100871aac6aa206fe9a</sys_id>
+            <sys_created_on>2014-10-08 04:52:14</sys_created_on>
+            <sys_id>348e8f32d723210092610eca5e610303</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2014-09-11 07:55:24</sys_updated_on>
+            <sys_updated_on>2014-10-08 04:52:14</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>key</element>
-            <list_id display_value="pa_indicators" element="NULL" name="pa_indicators" parent="NULL" relationship="NULL" sys_domain="global" view="7db73031c31301006568506adfba8ff7">98853812eb032100871aac6aa206fe99</list_id>
+            <element>sys_update_name</element>
+            <list_id display_value="sys_metadata" element="NULL" name="sys_metadata" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bc8e8f32d723210092610eca5e610302</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2014-09-11 07:55:24</sys_created_on>
-            <sys_id>50853812eb032100871aac6aa206fe9a</sys_id>
+            <sys_created_on>2014-10-08 04:52:14</sys_created_on>
+            <sys_id>748e8f32d723210092610eca5e610303</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2014-09-11 07:55:24</sys_updated_on>
+            <sys_updated_on>2014-10-08 04:52:14</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>frequency</element>
-            <list_id display_value="pa_indicators" element="NULL" name="pa_indicators" parent="NULL" relationship="NULL" sys_domain="global" view="7db73031c31301006568506adfba8ff7">98853812eb032100871aac6aa206fe99</list_id>
+            <element>sys_scope</element>
+            <list_id display_value="sys_metadata" element="NULL" name="sys_metadata" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bc8e8f32d723210092610eca5e610302</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2014-09-11 07:55:24</sys_created_on>
-            <sys_id>90853812eb032100871aac6aa206fe9a</sys_id>
+            <sys_created_on>2014-10-08 04:52:14</sys_created_on>
+            <sys_id>b48e8f32d723210092610eca5e610303</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2014-09-11 07:55:24</sys_updated_on>
+            <sys_updated_on>2014-10-08 04:52:14</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>cube</element>
-            <list_id display_value="pa_indicators" element="NULL" name="pa_indicators" parent="NULL" relationship="NULL" sys_domain="global" view="7db73031c31301006568506adfba8ff7">98853812eb032100871aac6aa206fe99</list_id>
+            <element>sys_policy</element>
+            <list_id display_value="sys_metadata" element="NULL" name="sys_metadata" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bc8e8f32d723210092610eca5e610302</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2014-09-11 07:55:24</sys_created_on>
-            <sys_id>d0853812eb032100871aac6aa206fe9a</sys_id>
+            <sys_created_on>2014-10-08 04:52:14</sys_created_on>
+            <sys_id>f48e8f32d723210092610eca5e610303</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2014-09-11 07:55:24</sys_updated_on>
+            <sys_updated_on>2014-10-08 04:52:14</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>display</element>
-            <list_id display_value="pa_indicators" element="NULL" name="pa_indicators" parent="NULL" relationship="NULL" sys_domain="global" view="7db73031c31301006568506adfba8ff7">98853812eb032100871aac6aa206fe99</list_id>
+            <element>sys_updated_on</element>
+            <list_id display_value="sys_metadata" element="NULL" name="sys_metadata" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bc8e8f32d723210092610eca5e610302</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2014-09-11 07:55:24</sys_created_on>
-            <sys_id>14853812eb032100871aac6aa206fe9a</sys_id>
+            <sys_created_on>2014-10-08 04:52:14</sys_created_on>
+            <sys_id>388e8f32d723210092610eca5e610303</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2014-09-11 07:55:24</sys_updated_on>
+            <sys_updated_on>2014-10-08 04:52:14</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>related_jobs</element>
-            <list_id display_value="pa_indicators" element="NULL" name="pa_indicators" parent="NULL" relationship="NULL" sys_domain="global" view="7db73031c31301006568506adfba8ff7">98853812eb032100871aac6aa206fe99</list_id>
+            <element>sys_updated_by</element>
+            <list_id display_value="sys_metadata" element="NULL" name="sys_metadata" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bc8e8f32d723210092610eca5e610302</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2014-09-11 07:55:24</sys_created_on>
-            <sys_id>54853812eb032100871aac6aa206fe9a</sys_id>
+            <sys_created_on>2014-10-08 04:52:14</sys_created_on>
+            <sys_id>788e8f32d723210092610eca5e610303</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2014-09-11 07:55:24</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>related_breakdowns</element>
-            <list_id display_value="pa_indicators" element="NULL" name="pa_indicators" parent="NULL" relationship="NULL" sys_domain="global" view="7db73031c31301006568506adfba8ff7">98853812eb032100871aac6aa206fe99</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>7</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2014-09-11 07:55:24</sys_created_on>
-            <sys_id>94853812eb032100871aac6aa206fe9a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2014-09-11 07:55:24</sys_updated_on>
+            <sys_updated_on>2014-10-08 04:52:14</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
